@@ -38,8 +38,8 @@
     }
 
     function main(){
-        insertar_alumnos();
-        insertar_empresas();
+        //insertar_alumnos();
+        //insertar_empresas();
         mostrar_empresa_alumno();
     }
 
